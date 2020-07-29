@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi! :metal:
+
+Would you like to find me?
+
+[![Site Badge](https://img.shields.io/badge/Site-raulpe7eira.tech-black)](https://raulpe7eira.tech)
+[![Last.fm Badge](https://img.shields.io/badge/-Last.fm-d51007?style=flat&logo=Last.fm&logoColor=white&link=https://last.fm/user/raulpereira)](https://last.fm/user/raulpereira)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-f77737?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/raulpe7eira)](https://instagram.com/raulpe7eira)
+[![Strava Badge](https://img.shields.io/badge/-Strava-fc4c02?style=flat&logo=Strava&logoColor=white&link=https://strava.com/athletes/raulpe7eira)](https://strava.com/athletes/raulpe7eira)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1dA1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raulpe7eira)](https://twitter.com/raulpe7eira)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raulpe7eira)](https://linkedin.com/in/raulpe7eira)
 
 <!--
 **raulpe7eira/raulpe7eira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
