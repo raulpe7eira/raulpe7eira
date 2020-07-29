@@ -7,6 +7,7 @@ Would you like to find me?
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f77737?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/raulpe7eira)](https://instagram.com/raulpe7eira)
 [![Strava Badge](https://img.shields.io/badge/-Strava-fc4c02?style=flat&logo=Strava&logoColor=white&link=https://strava.com/athletes/raulpe7eira)](https://strava.com/athletes/raulpe7eira)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1dA1f2?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/raulpe7eira)](https://twitter.com/raulpe7eira)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/raulpe7eira)](https://facebook.com/raulpe7eira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867b2?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raulpe7eira)](https://linkedin.com/in/raulpe7eira)
 
 <!--
