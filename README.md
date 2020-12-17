@@ -2,7 +2,7 @@
 
 Would you like to find me?
 
-[![Site Badge](https://img.shields.io/badge/raulpe7eira.tech-black)](https://raulpe7eira.tech)
+[![Site Badge](https://img.shields.io/badge/raulpe7eira.tech-white)](https://raulpe7eira.tech)
 [![Last.fm Badge](https://img.shields.io/badge/-Last.fm-d51007?logo=Last.fm&logoColor=white&link=https://last.fm/user/raulpereira)](https://last.fm/user/raulpereira)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-f77737?logo=Instagram&logoColor=white&link=https://instagram.com/raulpe7eira)](https://instagram.com/raulpe7eira)
 [![Strava Badge](https://img.shields.io/badge/-Strava-fc4c02?logo=Strava&logoColor=white&link=https://strava.com/athletes/raulpe7eira)](https://strava.com/athletes/raulpe7eira)
