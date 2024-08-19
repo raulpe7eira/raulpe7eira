@@ -2,13 +2,17 @@
 
 Would you like to find me?
 
-[![Site Badge](https://img.shields.io/badge/raulpe7eira.tech-white)](https://raulpe7eira.tech)
-[![Last.fm Badge](https://img.shields.io/badge/-Last.fm-d51007?logo=Last.fm&logoColor=white&link=https://last.fm/user/raulpereira)](https://last.fm/user/raulpereira)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-f77737?logo=Instagram&logoColor=white&link=https://instagram.com/raulpe7eira)](https://instagram.com/raulpe7eira)
-[![Strava Badge](https://img.shields.io/badge/-Strava-fc4c02?logo=Strava&logoColor=white&link=https://strava.com/athletes/raulpe7eira)](https://strava.com/athletes/raulpe7eira)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1dA1f2?logo=twitter&logoColor=white&link=https://twitter.com/raulpe7eira)](https://twitter.com/raulpe7eira)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-4267b2?logo=facebook&logoColor=white&link=https://facebook.com/raulpe7eira)](https://facebook.com/raulpe7eira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-2867b2?logo=Linkedin&logoColor=white&link=https://linkedin.com/in/raulpe7eira)](https://linkedin.com/in/raulpe7eira)
+[![Site](https://img.shields.io/badge/raulpe7eira.tech-white?style=for-the-badge&logoColor=white)](https://raulpe7eira.tech)
+
+[![IMDb](https://img.shields.io/badge/IMDb-F5C518?style=for-the-badge&logo=imdb&logoColor=white)](https://www.imdb.com/user/ur28106453)
+[![Last.fm](https://img.shields.io/badge/Last.fm-d51007?style=for-the-badge&logoColor=white)](https://last.fm/user/raulpereira)
+[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/raulpe7eira)
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raulpe7eira/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulpe7eira/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulpe7eira/)
+[![Strava](https://img.shields.io/badge/Strava-fc4c02?style=for-the-badge&logoColor=white)](https://strava.com/athletes/raulpe7eira)
 
 <!--
 **raulpe7eira/raulpe7eira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
