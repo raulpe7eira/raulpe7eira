@@ -10,7 +10,7 @@ Would you like to find me?
 
 [![Facebook](https://img.shields.io/badge/Facebook-0866FF?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/raulpe7eira/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raulpe7eira/)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)]([https://x.com/raulpe7eira](https://bsky.app/profile/raulpe7eira.bsky.social))
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/raulpe7eira.bsky.social)
 [![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white&label=%20)](https://x.com/raulpe7eira)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raulpe7eira/)
